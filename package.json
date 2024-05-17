@@ -10,6 +10,12 @@
     "type": "git",
     "url": "git://github.com/pierce-h/next-runner.git"
   },
+  "homepage": "https://www.next-runner.com/",
+  "keywords": [
+    "Next.js",
+    "queues",
+    "jobs"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
