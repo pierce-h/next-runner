@@ -2,10 +2,15 @@
   "name": "next-runner",
   "version": "0.0.0",
   "description": "Async job runner for the Next.js framework.",
+  "author": "pierce-h",
+  "license": "MIT",
+  "readmeFilename": "README.md",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pierce-h/next-runner.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  }
 }
